@@ -5,8 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5ec03c91-1bab-4fe2-a8bd-8eae0e1fdf05" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Exercices/module1/Ex1/part1/jsconfig.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercices/module1/Ex1/part1/src/index.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exercices/module1/Ex1/part1/src/App.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/Exercices/module1/Ex1/part1/src/App.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exercices/module1/Ex1/part1/src/main.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/Exercices/module1/Ex1/part1/src/main.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exercices/module1/Ex1/part1/vite.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/Exercices/module1/Ex1/part1/vite.config.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -14,7 +19,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/Exercices/Ex1" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -24,21 +29,21 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/sacha/Downloads/Projet+ PAE/Freelance-projects/deployement/medicalBudget",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_interpreter_path": "node",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/sacha/Downloads/Ecole/BLOC3/web3/web3&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_interpreter_path&quot;: &quot;node&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager" selected="npm.npm start">
     <configuration name="Debug Application" type="JavascriptDebugType" uri="http://localhost:3000">
       <method v="2" />
@@ -64,6 +69,9 @@
       <updated>1694768797678</updated>
       <workItem from="1694768798688" duration="1751000" />
       <workItem from="1694779737370" duration="1585000" />
+      <workItem from="1695375172357" duration="1502000" />
+      <workItem from="1695377218021" duration="185000" />
+      <workItem from="1695377414715" duration="511000" />
     </task>
     <servers />
   </component>

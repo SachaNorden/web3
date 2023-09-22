@@ -1,5 +1,5 @@
-import Header from './Components/Header/Header.component.jsx'
 import Content from './Components/Content/Content.component.jsx'
+import HeaderComponent from "components/Header/Header.component.jsx";
 const App = () => {
     const course = 'Half Stack application development'
     const part1 = 'Fundamentals of React'
@@ -11,7 +11,7 @@ const App = () => {
 
     return (
         <div>
-            <h1><Header course={course} ></Header></h1>
+            <h1><HeaderComponent course={course} ></HeaderComponent></h1>
             <p>
                 {exercises1}
                 <Content part={part1}></Content>
